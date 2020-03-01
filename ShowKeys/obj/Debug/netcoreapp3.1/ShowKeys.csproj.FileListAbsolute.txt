@@ -1,0 +1,11 @@
+D:\workspace-csharp\ShowKeys\ShowKeys\bin\Debug\netcoreapp3.1\ShowKeys.exe
+D:\workspace-csharp\ShowKeys\ShowKeys\bin\Debug\netcoreapp3.1\ShowKeys.deps.json
+D:\workspace-csharp\ShowKeys\ShowKeys\bin\Debug\netcoreapp3.1\ShowKeys.runtimeconfig.json
+D:\workspace-csharp\ShowKeys\ShowKeys\bin\Debug\netcoreapp3.1\ShowKeys.runtimeconfig.dev.json
+D:\workspace-csharp\ShowKeys\ShowKeys\bin\Debug\netcoreapp3.1\ShowKeys.dll
+D:\workspace-csharp\ShowKeys\ShowKeys\bin\Debug\netcoreapp3.1\ShowKeys.pdb
+D:\workspace-csharp\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.csprojAssemblyReference.cache
+D:\workspace-csharp\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.AssemblyInfoInputs.cache
+D:\workspace-csharp\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.AssemblyInfo.cs
+D:\workspace-csharp\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.dll
+D:\workspace-csharp\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.pdb
