@@ -5,6 +5,16 @@
       "taskLabel": "任务-ShowKeys",
       "appliesTo": "/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "任务-ShowKeys",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "任务-ShowKeys",
+      "appliesTo": "ShowKeys/",
+      "type": "launch"
     }
   ]
 }

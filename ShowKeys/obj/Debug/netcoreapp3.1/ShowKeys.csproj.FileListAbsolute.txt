@@ -9,3 +9,14 @@ D:\workspace-csharp\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.AssemblyI
 D:\workspace-csharp\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.AssemblyInfo.cs
 D:\workspace-csharp\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.dll
 D:\workspace-csharp\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.pdb
+D:\workspace-cs\ShowKeys\ShowKeys\bin\Debug\netcoreapp3.1\ShowKeys.exe
+D:\workspace-cs\ShowKeys\ShowKeys\bin\Debug\netcoreapp3.1\ShowKeys.deps.json
+D:\workspace-cs\ShowKeys\ShowKeys\bin\Debug\netcoreapp3.1\ShowKeys.runtimeconfig.json
+D:\workspace-cs\ShowKeys\ShowKeys\bin\Debug\netcoreapp3.1\ShowKeys.runtimeconfig.dev.json
+D:\workspace-cs\ShowKeys\ShowKeys\bin\Debug\netcoreapp3.1\ShowKeys.dll
+D:\workspace-cs\ShowKeys\ShowKeys\bin\Debug\netcoreapp3.1\ShowKeys.pdb
+D:\workspace-cs\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.AssemblyInfoInputs.cache
+D:\workspace-cs\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.AssemblyInfo.cs
+D:\workspace-cs\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.dll
+D:\workspace-cs\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.pdb
+D:\workspace-cs\ShowKeys\ShowKeys\obj\Debug\netcoreapp3.1\ShowKeys.csprojAssemblyReference.cache
